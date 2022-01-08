@@ -18,4 +18,4 @@ Interactive Elixir (1.11.2) - Press Ctrl+C to exit (type(h) ENTER for help)
 iex(1)>
 
 Ushushauashu, after many hours, Let's go...
-Now it's studying
+Now study
