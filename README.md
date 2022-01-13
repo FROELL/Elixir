@@ -19,3 +19,14 @@ iex(1)>
 
 Ushushauashu, after many hours, Let's go...
 Now study
+
+Second problem:
+
+vscode + mix
+
+c:\Users\fbr> mix new Sum_List
+Documents created "Sum_List"
+
+Now execute integrated interactive PowerShell
+Soluction:
+c:\User\fbr> iex.bat -S mix
